@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<object>
+    <resourcetypes>
+        <customplugins purge="False">
+            <element
+                value="plone_achecker|/++resource++collective.achecker.plugin/editor_plugin.js"/>
+        </customplugins>
+    </resourcetypes>
+    <toolbar>
+        <customtoolbarbuttons purge="False">
+            <toolbar_collective_achecker value="ploneachecker"/>
+        </customtoolbarbuttons>
+    </toolbar>
+</object>
